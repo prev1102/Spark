@@ -1,6 +1,8 @@
 # Spark
 🆕 Sparkchain Ai depin - Early
 ![{F4C182B0-14DD-4AEF-92DA-7D8A32B2B251}](https://github.com/user-attachments/assets/02fed9d2-ea66-48aa-b03c-fc30b1609226)
+
+
 Join the global AI revolution with SparkChain AI! 🚀
 1. Register: https://sparkchain.ai/register/?r=46631270
 - Sign up with gmail
