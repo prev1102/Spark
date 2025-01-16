@@ -13,4 +13,6 @@ Join the global AI revolution with SparkChain AI! 🚀
 3. Go to the task to do social
 ![{2317F910-CD2F-4D45-8376-B6D1B6142E39}](https://github.com/user-attachments/assets/3ee02e96-fcd1-4d1f-a221-ed31949f739f)
 4. Use invitations to earn more points
+
+
 The more stable the connection the better - Good luck with your high scores!
